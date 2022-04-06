@@ -17,3 +17,9 @@
 {
     width: 300px;
 }
+
+#selfie_image{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
